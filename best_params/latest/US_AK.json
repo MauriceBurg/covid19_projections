@@ -6,7 +6,7 @@
     "fixed_params": [
         [
             "PROJECTION_END_DATE",
-            "2020-11-01"
+            "2020-04-01"
         ],
         [
             "INCUBATION_DAYS",
