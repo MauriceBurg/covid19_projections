@@ -1,8 +1,10 @@
 # COVID-19 Projections Using Machine Learning
 
-[covid19-projections.com](https://covid19-projections.com/), created by [Youyang Gu](https://youyanggu.com/)
+Using Youyang Gu's projections to create herd immunity calculator for Philadelphia.
 
-*Warning: If you plan to clone this repository, please be aware that this repository takes approximately 4GB of space. This is because it contains all of our historical estimates and projections, not just the latest ones.*
+# README by Youyang Gu
+
+[covid19-projections.com](https://covid19-projections.com/), created by [Youyang Gu](https://youyanggu.com/)
 
 **2020-11-19 Update:** We have uploaded our raw US infection estimates in the [`infection_estimates`](/infection_estimates) directory. For a slimmed down version that only has the latest infection estimates, visit [this repository](https://github.com/youyanggu/covid19-infection-estimates-latest).
 
